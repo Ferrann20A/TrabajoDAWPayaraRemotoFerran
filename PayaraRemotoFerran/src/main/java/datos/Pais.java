@@ -5,10 +5,6 @@
  */
 package datos;
 
-/**
- *
- * @author andres
- */
 public class Pais {
     private String name;
     private String continent;
